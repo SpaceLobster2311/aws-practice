@@ -7,4 +7,4 @@ http://lab16gui-env.eba-8pnj3xeb.us-west-2.elasticbeanstalk.com/
 lab16cli-dev.us-west-2.elasticbeanstalk.com
 
 ## REST API
-work in progress
+AWS charges = 590$ I had to delete the app and contact support to beg for a refund :(. 
